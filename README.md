@@ -13,3 +13,17 @@ Welcome to the Desktop Voice Assistant project! This Python-based project aims t
 **Task Automation:** Execute system commands, open applications, browse the web, and perform other desktop tasks using voice commands.
 
 **User-Friendly Interface:** The assistant provides a simple and intuitive command-line interface for interaction.
+
+**Contributing**
+
+Contributions are welcome! If you have any ideas or improvements, feel free to open an issue or create a pull request.
+
+**Acknowledgments**
+
+Special thanks to SpeechRecognition and pyttsx3 for their contributions to this project.
+
+**Contact**
+
+For any questions or feedback, please contact Nayan Saha at sahanayan24@gmail.com
+
+**Enjoy your Desktop Voice Assistant!**
