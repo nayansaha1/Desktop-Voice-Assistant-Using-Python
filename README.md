@@ -2,7 +2,7 @@
 
 Welcome to the Desktop Voice Assistant project! This Python-based project aims to create a voice-controlled assistant for your desktop, providing a hands-free and convenient way to interact with your computer.
 
-**Features**
+**Features** —
 
 **Speech Recognition:** The assistant can recognize voice commands and perform actions based on the user's spoken instructions.
 
@@ -14,15 +14,15 @@ Welcome to the Desktop Voice Assistant project! This Python-based project aims t
 
 **User-Friendly Interface:** The assistant provides a simple and intuitive command-line interface for interaction.
 
-**Contributing**
+**Contributing** —
 
 Contributions are welcome! If you have any ideas or improvements, feel free to open an issue or create a pull request.
 
-**Acknowledgments**
+**Acknowledgments** —
 
 Special thanks to SpeechRecognition and pyttsx3 for their contributions to this project.
 
-**Contact**
+**Contact** —
 
 For any questions or feedback, please contact Nayan Saha at sahanayan24@gmail.com
 
